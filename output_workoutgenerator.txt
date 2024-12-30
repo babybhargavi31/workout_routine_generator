@@ -1,0 +1,20 @@
+Please enter your fitness goal (muscle_gain, fat_loss, endurance, strength):
+strength
+Please enter your fitness level (beginner, intermediate, advanced):
+beginner
+Please enter the number of days per week you want to workout (1-7):
+3
+
+Workout Plan:
+
+Day 1: Squats (Sets: 4, Reps: 12, Rest: 90s) | Push-ups (Sets: 3, Reps: 12, Rest: 60s) | Pull-ups (Sets: 3, Reps: 6, Rest: 90s)
+Day 2: Squats (Sets: 4, Reps: 12, Rest: 90s) | Rows (Sets: 4, Reps: 10, Rest: 90s) | Pull-ups (Sets: 3, Reps: 6, Rest: 90s)
+Day 3: Pull-ups (Sets: 3, Reps: 6, Rest: 90s) | Lunges (Sets: 3, Reps: 12, Rest: 60s) | Push-ups (Sets: 3, Reps: 12, Rest: 60s)
+
+
+Meal Plan:
+
+Suggested meal plan for strength:
+  - Protein Pancakes
+  - Chicken & Quinoa Bowl
+  - Steak & Sweet Potatoes
